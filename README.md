@@ -52,11 +52,3 @@ The system detects vehicles, identifies RFID cards, controls the barrier automat
 Result:
 The Smart Toll Gate Monitoring System prototype was successfully assembled and demonstrated using Arduino, RFID, IR sensor, and automatic gate control.
 
-## Block diagram
-
-![Block diagram](Block diagram.jpeg)
-
-## Schematic diagram
-
-![Schematic diagram](Schematic diagram.jpeg)
-
